@@ -1,0 +1,60 @@
+# Permalinks
+permalink:           /blog/:title/
+
+# Setup
+title:               Aditya Arora
+tagline:             Aditya Arora
+description:         Aditya Arora
+footer:              Aditya Arora
+
+exclude:             [/psd/]
+
+
+# Markdown
+
+
+
+# SASS
+sass:
+  sass_dir:          _sass
+  style:            compressed
+  encoding:          utf-8
+
+# Google Analytics
+analytics_id:  
+
+
+# SEO
+author:
+  name: Aditya Arora
+  twitter: faadguy
+  instagram: aditya arora
+  youtube: aditya arora
+  email: aditya@faad.in
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /bg.jpeg
+
+
+profile: /bg.jpg
+
+twitter:
+  username: aditya
+
+social:
+  name: Aditya Arora
+  links:
+    - https://twitter.com/faadguy
+    - https://instagram.com/ceo_du
+    - https://youtube.com/c/shivansh3121
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-pdf-embed

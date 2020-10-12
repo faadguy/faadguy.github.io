@@ -1,0 +1,18 @@
+<small class="social">
+<div>
+  <span class="icons">
+
+    
+    {% if site.twitter.username %}
+    {% include icon-twitter.html username=site.twitter.username %}
+  {% endif %}
+  {% if site.author.instagram %}
+    {% include icon-instagram.html username=site.author.instagram %}
+  {% endif %}
+  {% include icon-linkedin.html username=site.author.instagram %}
+
+  {% include icon-mail.html username=site.author.instagram %}
+</span>
+
+  </div>
+</small>
