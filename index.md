@@ -3,238 +3,221 @@ layout: default
 title: Aditya Arora
 videos: true
 ---
+
 <html>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
-  
 
-   .aboutme{
-   background-color:#000;
 
-  }
+.aboutme{
+background-color:#000;
 
-  .posts img{
-    height: 20vh;
-    object-fit: cover;
-    object-position: top;
-  }
-  .posts u{
-    color:#313131;
-  }
+}
 
+.posts img{
+height: 20vh;
+object-fit: cover;
+object-position: top;
+}
+.posts u{
+color:#313131;
+}
 
 #style-8::-webkit-scrollbar
 {
-	width: 10px;
-	background-color: #F5F5F5;
-  border-radius:5px;
+width: 10px;
+background-color: #F5F5F5;
+border-radius:5px;
 }
 
 #style-8::-webkit-scrollbar-thumb
 {
-	background-color: #bcbcbc;	
-    border-radius:5px;
+background-color: #bcbcbc;
+border-radius:5px;
 }
 
-
-
-
 .sectionClass {
+
   <!-- padding: 20px 0px 50px 0px; -->
-  position: relative;
-  display: block;
+
+position: relative;
+display: block;
 }
 
 .fullWidth {
-  width: 100% !important;
-  display: table;
-  float: none;
-  padding: 0;
-  min-height: 1px;
-  height: 100%;
-  position: relative;
+width: 100% !important;
+display: table;
+float: none;
+padding: 0;
+min-height: 1px;
+height: 100%;
+position: relative;
 }
 
-
 .sectiontitle {
-  background-position: center;
-  margin: 30px 0 0px;
-  text-align: center;
-  min-height: 20px;
+background-position: center;
+margin: 30px 0 0px;
+text-align: center;
+min-height: 20px;
 }
 
 .sectiontitle h2 {
-  font-size: 30px;
-  color: #222;
-  margin-bottom: 0px;
-  padding-right: 10px;
-  padding-left: 10px;
+font-size: 30px;
+color: #222;
+margin-bottom: 0px;
+padding-right: 10px;
+padding-left: 10px;
 }
-
 
 .headerLine {
-  width: 160px;
-  height: 2px;
-  display: inline-block;
-  background: #101F2E;
+width: 160px;
+height: 2px;
+display: inline-block;
+background: #101F2E;
 }
-
 
 .projectFactsWrap{
-    display: flex;
+display: flex;
+
   <!-- margin-top: 30px; -->
-  flex-direction: row;
-  flex-wrap: wrap;
+
+flex-direction: row;
+flex-wrap: wrap;
 }
 
-
 #projectFacts .fullWidth{
-  padding: 0;
+padding: 0;
 }
 
 .projectFactsWrap .item{
-  width: 25%;
-  height: 100%;
-  padding: 50px 0px;
-  text-align: center;
+width: 25%;
+height: 100%;
+padding: 50px 0px;
+text-align: center;
 }
 
 .projectFactsWrap .item:nth-child(1){
-  background: rgb(16, 31, 46);
+background: rgb(16, 31, 46);
 }
 
 .projectFactsWrap .item:nth-child(2){
-  background: rgb(18, 34, 51);
+background: rgb(18, 34, 51);
 }
 
 .projectFactsWrap .item:nth-child(3){
-  background: rgb(21, 38, 56);
+background: rgb(21, 38, 56);
 }
 
 .projectFactsWrap .item:nth-child(4){
-  background: rgb(23, 44, 66);
+background: rgb(23, 44, 66);
 }
 
 .projectFactsWrap .item p.number{
-  font-size: 40px;
-  padding: 0;
-  font-weight: bold;
+font-size: 40px;
+padding: 0;
+font-weight: bold;
 }
 
 .projectFactsWrap .item p{
-  color: rgba(255, 255, 255, 0.8);
-  font-size: 18px;
-  margin: 0;
-  padding: 10px;
+color: rgba(255, 255, 255, 0.8);
+font-size: 18px;
+margin: 0;
+padding: 10px;
 }
-
 
 .projectFactsWrap .item span{
-  width: 60px;
-  background: rgba(255, 255, 255, 0.8);
-  height: 2px;
-  display: block;
-  margin: 0 auto;
+width: 60px;
+background: rgba(255, 255, 255, 0.8);
+height: 2px;
+display: block;
+margin: 0 auto;
 }
-
 
 .projectFactsWrap .item i{
-  vertical-align: middle;
-  font-size: 50px;
-  color: rgba(255, 255, 255, 0.8);
+vertical-align: middle;
+font-size: 50px;
+color: rgba(255, 255, 255, 0.8);
 }
 
-
 .projectFactsWrap .item:hover i, .projectFactsWrap .item:hover p{
-  color: white;
+color: white;
 }
 
 .projectFactsWrap .item:hover span{
-  background: white;
+background: white;
 }
-
 
 @media (max-width: 786px){
-  .projectFactsWrap .item {
-     flex: 0 0 50%;
-  }
+.projectFactsWrap .item {
+flex: 0 0 50%;
 }
-
-
-
+}
 
 .about-me-img {
-  width: 120px;
-  height: 120px;
-  left: 10px;
-  /* bottom: 30px; */
-  position: relative;
-  border-radius: 100px;
+width: 120px;
+height: 120px;
+left: 10px;
+/_ bottom: 30px; _/
+position: relative;
+border-radius: 100px;
 }
-
 
 .about-me-img img {
 }
 
-
 .authorWindow{
-  width: 600px;
-  background: #75439a;
-  padding: 22px 20px 22px 20px;
-  border-radius: 5px;
-  overflow: hidden;
+width: 600px;
+background: #75439a;
+padding: 22px 20px 22px 20px;
+border-radius: 5px;
+overflow: hidden;
 }
 
 .authorWindowWrapper{
-  display: none;
-  left: 110px;
-  top: 0;
-  padding-left: 25px;
-  position: absolute;
+display: none;
+left: 110px;
+top: 0;
+padding-left: 25px;
+position: absolute;
 }
 
-
-
-
-
 .trans{
-  opacity: 1;
-  -webkit-transform: translateX(0px);
-  transform: translateX(0px);
-  -webkit-transition: all 500ms ease;
-  -moz-transition: all 500ms ease;
-  transition: all 500ms ease;
+opacity: 1;
+-webkit-transform: translateX(0px);
+transform: translateX(0px);
+-webkit-transition: all 500ms ease;
+-moz-transition: all 500ms ease;
+transition: all 500ms ease;
 }
 
 @media screen and (max-width: 768px) {
-  .posts img{
-    height: 40vh;
-    object-fit: cover;
-    object-position: top;
-  }
-    .authorWindow{
-         width: 210px;
-    }
+.posts img{
+height: 40vh;
+object-fit: cover;
+object-position: top;
+}
+.authorWindow{
+width: 210px;
+}
 
     .authorWindowWrapper{
              bottom: -170px;
-  margin-bottom: 20px;
-    }
-    .comp{
-      flex-direction:column;
-    }
 
+margin-bottom: 20px;
+}
+.comp{
+flex-direction:column;
 }
 
-
+}
 
   </style>
   <meta name="title" content="Aditya Arora">
 <meta name="description" content="
 Hi! My name is Aditya Arora and my mission in life is to support the youth in achieving their dreams by following their passion.">
 
-  
 {% include showcase.html %}
+
 </html>
 <!-- <div style="height:10px;background:#e2d640;width: 180px;
     margin-top: -2rem;"></div> -->
@@ -250,26 +233,21 @@ But before that, you would want to know who I really am?
 I am a Young Entrepreneur and Achiever on various national and international platforms. Some of my accomplishments include:
 <br><br>
 
-1.	Young Nominee - Padma Shri 2020 (Entrepreneurship Mindset Curriculum, Govt Of Delhi)<br>
-2.	Indian Parliamentary Meritorious Award  - 2015<br>
-3.	Young Entrepreneur - National Entrepreneurship Day 2017<br>
-4.	International Award for young People - Duke of Edinburgh Award <br>
-5.	Microsoft Top 15 Changemakers Under 20 - Education Yatra<br><br>
+1. Young Nominee - Padma Shri 2020 (Entrepreneurship Mindset Curriculum, Govt Of Delhi)<br>
+2. Indian Parliamentary Meritorious Award - 2015<br>
+3. Young Entrepreneur - National Entrepreneurship Day 2017<br>
+4. International Award for young People - Duke of Edinburgh Award <br>
+5. Microsoft Top 15 Changemakers Under 20 - Education Yatra<br><br>
 
-All of the above wasn’t easy for me. It involved real blood, sweat and tears. That’s what motivates me to help you so that you don’t have to face what I did to get here. 
-
+All of the above wasn’t easy for me. It involved real blood, sweat and tears. That’s what motivates me to help you so that you don’t have to face what I did to get here.
 
     </h1>
      <br>
      <br>
+
   </div>
 
 </div>
-
-
-
-
-
 
 <div style="background-color:#fff; margin-bottom: 3rem;">
   <div class="container comp" style="padding-top: 50px;display:flex;">
@@ -373,8 +351,6 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
 
 <!-- <svg class="triangle triangle-dark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="presentation" preserveAspectRatio="none"><path class="triangle-path" d="M0 0l253 500L500 0H0z"></path></svg>     -->
 
-
-
 <div>
 
 <div id="projectFacts" class="sectionClass">
@@ -413,44 +389,41 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
         <h1 style="font-size:6.6rem; font-weight:800;margin:0; padding-bottom:60px;">Notable Events</h1>
         </div>
 
-
   <div class="row-carousel-event" id="style-8" >
     <div class="row__inner" >
 
       <div class="tile" style="height:300px;width:350px">
-       
+
      <div class="team-card"><div ><img class="team-img" src="https://www.world-business-dialogue.com/wp-content/uploads/WBD-Logo-ohne-Datum-mit-Text-wide-blau-Kopie-1.png" alt="aditya arora"></div><div><h1 class="team-title" style="padding-left:10px;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;color:#d1410c;text-align:left">Delegate of India </h1><h1 class="team-title" style="padding-left:10px;text-align:left;color:#878787;margin-top:-1rem;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;">21st World Business Dialogue - Cologne, Germany </h1><div style="text-align: left;"></div></div></div>
-    
+
       </div>
       <div class="tile" style="height:300px;width:350px">
-        
+
      <div class="team-card"><div ><img class="team-img" src="https://img.nordangliaeducation.com/resources/asia/_filecache/61a/c45/196368-cropped-w1366-h500-of-1-FFFFFF-nus.png"  alt="aditya arora"></div><div><h1 class="team-title" style="padding-left:10px;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;color:#d1410c;text-align:left">Guest Lecturer </h1><h1 class="team-title" style="padding-left:10px;text-align:left;color:#878787;margin-top:-1rem;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;">National University of Singapore </h1><div style="text-align: left;"></div></div></div>
-    
+
       </div>
       <div class="tile" style="height:300px;width:350px">
-        
+
      <div class="team-card"><div ><img class="team-img" src="https://www.hindustantimes.com/rf/image_size_1200x900/HT/p2/2020/05/11/Pictures/_f5048b74-9377-11ea-84fe-62f09e00e282.jpg"  alt="aditya arora"></div><div><h1 class="team-title" style="padding-left:10px;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;color:#d1410c;text-align:left">Guest Lecturer </h1><h1 class="team-title" style="padding-left:10px;text-align:left;color:#878787;margin-top:-1rem;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;">IIM Banglore</h1><div style="text-align: left;"></div></div></div>
-    
+
       </div>
       <div class="tile" style="height:300px;width:350px">
-        
+
      <div class="team-card"><div ><img class="team-img" src="https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/153000/153186/image/5e09df24da1e9.jpeg" alt="aditya arora"></div><div><h1 class="team-title" style="padding-left:10px;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;color:#d1410c;text-align:left">Delegate Of India</h1><h1 class="team-title" style="padding-left:10px;text-align:left;color:#878787;margin-top:-1rem;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;">HPAIR 2018 Asia Conference</h1><div style="text-align: left;"></div></div></div>
-    
+
       </div>
       <div class="tile" style="height:300px;width:350px">
-        
+
      <div class="team-card"><div ><img class="team-img" src="/blog/startupchaupal.png" alt="aditya arora"></div><div><h1 class="team-title" style="padding-left:10px;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;color:#d1410c;text-align:left">Panelist</h1><h1 class="team-title" style="padding-left:10px;text-align:left;color:#878787;margin-top:-1rem;font-family: 'Roboto', sans-serif;font-size:1.6rem;font-weight:400;">Startup Chaupal Conference</h1><div style="text-align: left;"></div></div></div>
-    
+
       </div>
-      
+
     </div>
-  
+
   </div>
 
 </div>
 </div>
-
-
 
 <div  style="padding-bottom:100px">
 <div class="container">
@@ -458,13 +431,12 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
 {% for post in site.posts %}
 
 {% if post.featured %}
+
   <div class="posts post-web" style="border-bottom:1px solid black;border-bottom: 1px solid black;
     margin-bottom: 5rem;padding-bottom:0;" >
 
-
     <div class="post-title post-title-web" style="margin-bottom: 0rem;"><h1 style="font-weight:600;"><a href="{{ post.url }}"><img src="/studentpreneur.jpg"></a></h1><h3 style="font-size: 1.8rem;font-weight:300;"></h3></div>
     {% if post.description %}<p class="post-description post-description-web">{{ post.description }}<br><br><a href="{{ post.url }}"><u >...Read more</u></a></p>{% endif %}
-    
 
   </div>
   
@@ -474,8 +446,6 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
 <!-- <h4 style="float:right;"><a href="/events" style="color:#313131;padding-right:30px;"><u>View More...</u></a></h4> -->
 
 </div>
-
-
 
 <div style="background:black" id="gallery" >
   <div class="container" style="padding-top:50px">
@@ -501,14 +471,12 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/LJVd8GV2lUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
 
+     <br>
+     <br>
 
- 
-     <br>
-     <br>
   </div>
 
 </div>
-
 
   <div class="row-carousel" id="style-8" style="background:black;">
     <div class="row__inner" >
@@ -573,7 +541,7 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
           </div>
         </div>
       </div>
-      
+
       <div class="tile">
         <div class="tile__media">
           <img class="tile__img" src="/blog/aditya_arora%20(5).jpg" alt="aditya arora" style="object-position: top;"  />
@@ -727,14 +695,10 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
 
 
     </div>
-  
+
   </div>
 
 <h4 style="float:right;"><a href="/gallery" style="color:#313131;padding-right:30px"><u>View More...</u></a></h4>
-
-
-
-
 
 <div style="background-color:#fff; margin-bottom: 3rem;">
   <div class="container" style="padding-top: 50px;
@@ -767,7 +731,7 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
           <img src="/0.jpg" alt="Aditya Arora" style="width: 200px">
         </div>
       </div> -->
-   
+
   </div>
     <div class="portfolio-images-container">
       <div class="row1" style="">
@@ -788,7 +752,6 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
      
       </div>
 
-   
   </div>
   
 </div>
