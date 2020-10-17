@@ -8,7 +8,6 @@ videos: true
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
 
-
 .aboutme{
 background-color:#000;
 
@@ -705,22 +704,28 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
        ">
       <h1 style="font-size:6rem;letter-spacing:0; margin:0; ">As seen on</h1>
     <div class="portfolio-images-container">
-      <div class="row1" style="">
-        <div class="portfolio-images " style="padding-top: 20px;">
+      <div class="row1" style="justify-content:center;align-items:center;">
+      <div class="portfolio-images " style="">
+          <a href="https://www.forbesindia.com/article/brand-connect/meet-aditya-arora-the-faad-guy-who-tore-off-the-curtains-of-uncertainty/63351/1"><img src="/forbes.jpg" alt="Aditya Arora Forbes" style="width: 200px;margin-top:5px"></a>
+        </div>
+      
+      
+        <div class="portfolio-images " style="">
          <a href="https://yourstory.com/2019/08/funding-early-stage-startups-india-faad-network"> <img src="https://yourstory.com/logos/logo_yourstory.svg" alt="Aditya Arora" style="width: 200px"></a>
         </div>
            
-        <div class="portfolio-images " style="padding-top: 10px;">
-          <a href="http://dubeat.com/2019/11/meet-aditya-arora-an-entrepreneur-who-started-his-journey-at-17/"><img src="https://dubeat.com/wp-content/uploads/2020/02/header-logo-du-beat-updated.png" alt="Aditya Arora" style="width: 200px"></a>
-        </div>
-        <div class="portfolio-images " style="padding-top: 20px;">
-         <a href="https://laffaz.com/in-conversation-with-aditya-arora-ceo-faad/"> <img src="https://laffaz.com/wp-content/uploads/2019/06/Laffaz-rectangle-logo.svg" alt="Aditya Arora" style="width: 200px"></a>
-        </div>
            
-        <div class="portfolio-images " style="padding-top:20px">
+        <div class="portfolio-images " style="">
           <a href="https://www.vccircle.com/how-angel-network-faad-is-building-its-startup-portfolio/"><img src="https://www.vccircle.com/assets/images/VCC-logo.svg" alt="Aditya Arora" style="width: 200px"></a>
         </div>
      
+      
+      
+        <div class="portfolio-images " style="  ">
+          <a href="http://dubeat.com/2019/11/meet-aditya-arora-an-entrepreneur-who-started-his-journey-at-17/"><img src="https://dubeat.com/wp-content/uploads/2020/02/header-logo-du-beat-updated.png" alt="Aditya Arora" style="width: 200px"></a>
+        </div>
+        
+      
       </div>
 
       <!-- <div class="row2">
@@ -734,7 +739,10 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
 
   </div>
     <div class="portfolio-images-container">
-      <div class="row1" style="">
+      <div class="row1" style="justify-content:center;align-items:center;">
+      <div class="portfolio-images " style="">
+         <a href="https://laffaz.com/in-conversation-with-aditya-arora-ceo-faad/"> <img src="https://laffaz.com/wp-content/uploads/2019/06/Laffaz-rectangle-logo.svg" alt="Aditya Arora" style="width: 200px"></a>
+        </div>
         <div class="portfolio-images " style="">
          <a href="https://www.startupnews.fyi/post/how-angel-network-faad-is-building-its-startup-portfolio"> <img src="/download.png" alt="Aditya Arora" style="width: 80px"></a>
         </div>
@@ -749,6 +757,7 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
         <div class="portfolio-images " style="">
           <a href="https://www.eatmy.news/2020/04/the-sooner-you-start-better-it-is-so.html"><img src="https://4.bp.blogspot.com/-ZHz4NLU-qHA/X1JBcC9zF4I/AAAAAAAADGw/5hpsv_6y8oAQYg5TPHbjD_IfrrWjXyZeACK4BGAYYCw/s1600/EatMyNews_logo_300dpi.png" alt="Aditya Arora" style="width: 200px"></a>
         </div>
+        
      
       </div>
 
