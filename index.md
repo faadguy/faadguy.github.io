@@ -236,7 +236,9 @@ I am a Young Entrepreneur and Achiever on various national and international pla
 2. Indian Parliamentary Meritorious Award - 2015<br>
 3. Young Entrepreneur - National Entrepreneurship Day 2017<br>
 4. International Award for young People - Duke of Edinburgh Award <br>
-5. Microsoft Top 15 Changemakers Under 20 - Education Yatra<br><br>
+5. Microsoft Top 15 Changemakers Under 20 - Education Yatra<br>
+6. REX Karamveer Chakra 2019 - United Nations and iCongo <br>
+   <br>
 
 All of the above wasn’t easy for me. It involved real blood, sweat and tears. That’s what motivates me to help you so that you don’t have to face what I did to get here.
 
