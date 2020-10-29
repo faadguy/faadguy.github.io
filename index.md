@@ -258,10 +258,13 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
     <div style="flex-grow:2">
     <table>
     <tbody>
-      <a href="https://www.faad.in">
       <tr>
       <td>
+      <a href="https://www.faad.in">
+
       <img src="https://static.wixstatic.com/media/5841b2_13848b83c7914bfda0a261a8b0faf2dd~mv2_d_3088_3188_s_4_2.png/v1/fill/w_96,h_99,al_c,q_85,usm_0.66_1.00_0.01/faad%20tm%20logo.webp" style="width:100px;">
+      </a>
+
       </td>
       <td>
       <h1 style="padding:0 10px ;margin:0;font-family:Roboto;font-size:2rem">
@@ -269,11 +272,11 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
       </h1>
       </td>
       </tr>
-      </a>
-      <a href="https://officialmashproject.wordpress.com/">
       <tr>
       <td>
+      <a href="https://officialmashproject.wordpress.com/">
       <img src="/blog/mash.png" style="width:100px;">
+      </a>
       </td>
       <td>
       <h1 style="padding:0 10px ;margin:0;font-family:Roboto;font-size:2rem">
@@ -281,11 +284,11 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
       </h1>
       </td>
       </tr>
-      </a>
-      <a href="https://www.cii.in/">
       <tr>
       <td>
+      <a href="https://www.cii.in/">
       <img src="/blog/cii.png" style="width:100px;">
+      </a>
       </td>
       <td>
       <h1 style="padding:0 10px ;margin:0;font-family:Roboto;font-size:2rem">
@@ -293,12 +296,12 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
       </h1>
       </td>
       </tr>
-      </a>
-      <a href="http://ficci.in/">
       <tr>
       <td>
       <h1 style="padding:0 10px ;margin:0;font-family:Roboto;font-size:2rem">
+      <a href="http://ficci.in/">
       <img src="/blog/ficci.png" style="width:100px;">
+      </a>
       </h1>
       </td>
       <td>
@@ -307,11 +310,11 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
       </h1>
       </td>
       </tr>
-      </a>
-      <a href="http://ficci.in/">
       <tr>
       <td>
+      <a href="http://ficci.in/">
       <img src="/blog/phd.jpg" style="width:100px;">
+      </a>
       </td>
       <td>
       <h1 style="padding:0 10px ;margin:0;font-family:Roboto;font-size:2rem">
@@ -319,11 +322,11 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
       </h1>
       </td>
       </tr>
-      </a>
-      <a href="https://aim.gov.in/">
       <tr>
       <td>
+      <a href="https://aim.gov.in/">
       <img src="/niti.png" style="width:100px;">
+      </a>
       </td>
       <td>
       <h1 style="padding:0 10px ;margin:0;font-family:Roboto;font-size:2rem">
@@ -331,11 +334,11 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
       </h1>
       </td>
       </tr>
-      </a>
-      <a href="https://delhi.gov.in/">
       <tr>
       <td>
+      <a href="https://delhi.gov.in/">
       <img src="/delhigov.png" style="width:100px;">
+      </a>
       </td>
       <td>
       <h1 style="padding:0 10px ;margin:0;font-family:Roboto;font-size:2rem">
@@ -343,9 +346,9 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
       </h1>
       </td>
       </tr>
-      </a>
       </tbody>
     </table>
+
 </div>
 </div>  
 </div>
