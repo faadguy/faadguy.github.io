@@ -260,7 +260,7 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
     <tbody>
       <tr>
       <td>
-      <a href="https://www.faad.in">
+      <a href="http://www.faad.in">
 
       <img src="https://static.wixstatic.com/media/5841b2_13848b83c7914bfda0a261a8b0faf2dd~mv2_d_3088_3188_s_4_2.png/v1/fill/w_96,h_99,al_c,q_85,usm_0.66_1.00_0.01/faad%20tm%20logo.webp" style="width:100px;">
       </a>
