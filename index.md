@@ -312,7 +312,7 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
       </tr>
       <tr>
       <td>
-      <a href="http://ficci.in/">
+      <a href="https://www.phdcci.in/">
       <img src="/blog/phd.jpg" style="width:100px;">
       </a>
       </td>
