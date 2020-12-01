@@ -432,20 +432,20 @@ All of the above wasn’t easy for me. It involved real blood, sweat and tears. 
 <div  style="padding-bottom:100px">
 <div class="container">
 <h1  style="font-size:6rem;letter-spacing:0;padding-bottom:20px; ">Must Reads</h1>
-{% for post in site.posts %}
-
-{% if post.featured %}
 
   <div class="posts post-web" style="border-bottom:1px solid black;border-bottom: 1px solid black;
     margin-bottom: 5rem;padding-bottom:0;" >
 
-    <div class="post-title post-title-web" style="margin-bottom: 0rem;"><h1 style="font-weight:600;"><a href="{{ post.url }}"><img src="/studentpreneur.jpg"></a></h1><h3 style="font-size: 1.8rem;font-weight:300;"></h3></div>
-    {% if post.description %}<p class="post-description post-description-web">{{ post.description }}<br><br><a href="{{ post.url }}"><u >...Read more</u></a></p>{% endif %}
+    <div class="post-title post-title-web" style="margin-bottom: 0rem;"><h1 style="font-weight:600;"><a href="https://adityaarora.in/blog/my-journey-from-intern-to-ceo/"><img src="/blog/aditya_arora%20(12).jpg"></a></h1><h3 style="font-size: 1.8rem;font-weight:300;"></h3></div>
+    <p class="post-description post-description-web">My Journey- From an intern to becoming a CEO<br><br><a href="https://adityaarora.in/blog/my-journey-from-intern-to-ceo/"><u >...Read more</u></a></p>
 
   </div>
-  
-  {% endif %}
-{% endfor %}
+  <div class="posts post-web" style="border-bottom:1px solid black;border-bottom: 1px solid black;
+    margin-bottom: 5rem;padding-bottom:0;" >
+<div class="post-title post-title-web" style="margin-bottom: 0rem;"><h1 style="font-weight:600;"><a href="https://adityaarora.in/blog/debunking-myths-of-studentpreneurs/"><img src="/studentpreneur.jpg"></a></h1><h3 style="font-size: 1.8rem;font-weight:300;"></h3></div>
+    <p class="post-description post-description-web">Debunking Myths of Studentpreneur<br><br><a href="https://adityaarora.in/blog/debunking-myths-of-studentpreneurs/"><u >...Read more</u></a></p>
+  </div>
+
 </div>
 <!-- <h4 style="float:right;"><a href="/events" style="color:#313131;padding-right:30px;"><u>View More...</u></a></h4> -->
 
